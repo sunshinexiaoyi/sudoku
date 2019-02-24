@@ -66,6 +66,7 @@ public class SudokuPuzzle {
 
 	@Override
 	public String toString() {
+
 		return "SudokuPuzzle{" +
 				"originalArray=" + Arrays.toString(originalArray) +
 				", currentArray=" + Arrays.toString(currentArray) +
